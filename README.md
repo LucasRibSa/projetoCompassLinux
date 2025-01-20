@@ -75,7 +75,7 @@ crontab -e
 Adicione a seguinte linha ao arquivo:
 
 ```bash
-*/5 * * * * /caminho/completo/meu_script.sh
+*/5 * * * * /home/SEU-USUARIO/AtividadeCompass/verifica_servico.sh
 ```
 
 Salve e saia do editor.
