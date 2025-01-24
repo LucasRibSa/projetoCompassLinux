@@ -59,7 +59,7 @@ chmod +x verifica_servico.sh
 Execute o script manualmente para testar:
 
 ```bash
-./meu_script.sh
+./verifica_servico.sh
 ```
 Verifique os arquivos de log gerados no diretório logs/.
 
